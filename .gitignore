@@ -1,0 +1,33 @@
+# Node.js
+npm-debug.log
+yarn-error.log
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Flask specific files
+instance/
+.webassets-cache
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+FacialRecogTest/buffalo_l.zip
+FacialRecogTest/buffalo_l/*.onnx
